@@ -1,0 +1,9 @@
+.formLogin{
+    display: flex;
+    margin: 10em;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: rgba(120, 120, 119, 0.028);
+}
+
